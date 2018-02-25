@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">TASYAFAUZIA_1202154307_MODUL3</string>
+    <string name="title_label">News</string>
+    <string name="filler_text"></string>
+
+
+        <string-array name="minum_titles">
+            <item>Aqua</item>
+            <item>Ades</item>
+            <item>Amidis</item>
+            <item>Cleo</item>
+            <item>Club</item>
+            <item>Equil</item>
+            <item>Evian</item>
+            <item>Leminerale</item>
+            <item>Nestle</item>
+            <item>Pristine</item>
+            <item>Vit</item>
+        </string-array>
+
+        <string-array name="minum_info">
+            <item>ini adalah Aqua</item>
+            <item>ini adalah Ades</item>
+            <item>ini adalah Amidis</item>
+            <item>ini adalah Cleo</item>
+            <item>ini adalah Club</item>
+            <item>ini adalah Equil</item>
+            <item>ini adalah Evian</item>
+            <item>ini adalah Leminerale</item>
+            <item>ini adalah Nestle</item>
+            <item>ini adalah Pristine</item>
+            <item>ini adalah Vit</item>
+        </string-array>
+
+        <string-array name="minum_images">
+            <item>@drawable/aqua</item>
+            <item>@drawable/ades</item>
+            <item>@drawable/amidis</item>
+            <item>@drawable/cleo</item>
+            <item>@drawable/club</item>
+            <item>@drawable/equil</item>
+            <item>@drawable/evian</item>
+            <item>@drawable/leminerale</item>
+            <item>@drawable/nestle</item>
+            <item>@drawable/pristine</item>
+            <item>@drawable/vit</item>
+        </string-array>
+
+        <string-array name="drinks_detail">
+            <item>AQUA berasal dari sumber mata air yang terpilih dengan segala kemurnian dan kandungan mineral alami yang terpelihara.</item>
+            <item>Ades(sebelumnya pernah disebut AdeS) adalah merek air mineral atau air minum dalam kemasan (AMDK) yang diproduksi oleh PT. Coca-Cola Bottling Indonesia, Bekasi. </item>
+            <item>AMIDIS adalah air minum kesehatan yang diproses melalui sistem distilasi atau penyulingan atau penguapan,melalui proses pemanasan hingga 180 derajat celcius sehingga menghasilkan air min</item>
+            <item>Cleo water adalah air mineral yang memiliki banyak manfaat dan keuntungan bagi orang-orang yang memilih untuk meminumnya, cleo water juga terbuat dari air murni.</item>
+            <item>Club adalah merek air minum dalam kemasan atau air mineral di Indonesia. Merek ini berasal dari Surabaya dan Pandaan, Pasuruan, Jawa Timur.</item>
+            <item>Equil memang hanya diminum kalangan tertentu, beda dengan merek air mineral lain dalam kemasan botol atau gelas plastik.</item>
+            <item>Saat ini Evian dimiliki oleh Groupe Danone, sebuah perusahaan multinasional Perancis.</item>
+            <item>Le Minerale, pure and preserved mineral water sourced from the mountain and packed directly on site using the latest technology (mineral protection system) to bring you a healthy refreshment for optimum body function.</item>
+            <item>Nestlé merupakan perusahaan makanan dan minuman terbesar di dunia. Kami memiliki lebih dari 2.000 merek, mulai dari ikon global hingga produk lokal favorit, dan kami hadir di 191 negara di seluruh dunia.</item>
+            <item>Minuman yang saya baru tau ini ada ternyata</item>
+            <item>Sumber mata air yang digunakan oleh VIT telah melalui uji fisika, kimia dan mikrobiologi untuk memastikan pemenuhan standar kualitas yang telah ditetapkan.</item>
+        </string-array>
+</resources>
